@@ -2,7 +2,6 @@
 
 # Stack:
 <ul>
- <li>JavaScript</li>
  <li>Vue js</li>
  <li>NodeJS (Express + MongoDb)</li>
  <li>JSON Web Token</li>
